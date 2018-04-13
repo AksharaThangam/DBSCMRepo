@@ -5,4 +5,4 @@ CREATE TABLE [dbo].[T_Batches](
 	[Fab_Info] [varchar](200) NULL,
 	[Tapout_Version] [varchar](200) NULL
 ) ON [PRIMARY]
-
+GO
